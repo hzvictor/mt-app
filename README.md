@@ -6,20 +6,20 @@
 
 ![Alt text](https://github.com/hzvictor/mt-app/raw/master/my-project/image/2.png)
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.13.33.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/1.png)
 
 #首页展示
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.12.41.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/3.png)
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.12.51.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/4.png)
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.13.04.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/5.png)
 
 #地理位置
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.15.36.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/6.png)
 
 # 商品页面
 
-![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.31.23.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/7.png)
