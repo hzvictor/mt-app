@@ -4,7 +4,7 @@
 
 # 登陆注册页面
 
-![](https://github.com/hzvictor/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.13.16.png)
+![](https://github.com/hzvictor/mt-app/my-project/raw/master/image/屏幕快照 2019-02-19 下午12.13.16.png)
 
 ![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.13.33.png)
 
