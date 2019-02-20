@@ -4,7 +4,7 @@
 
 # 登陆注册页面
 
-![Alt text](https://github.com/hzvictor/mt-app/raw/master/my-project/image/2.png）
+![Alt text](https://github.com/hzvictor/mt-app/raw/master/my-project/image/2.png)
 
 ![](/Users/houzhen/workspace/mt-app/mt-app/my-project/image/屏幕快照 2019-02-19 下午12.13.33.png)
 
