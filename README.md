@@ -8,7 +8,7 @@
 
 ![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/1.png)
 
-#首页展示
+# 首页展示
 
 ![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/3.png)
 
@@ -16,10 +16,10 @@
 
 ![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/5.png)
 
-#地理位置
+# 地理位置
 
-![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/6.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/7.png)
 
 # 商品页面
 
-![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/7.png)
+![](https://github.com/hzvictor/mt-app/raw/master/my-project/image/6.png)
